@@ -29,8 +29,6 @@ The project uses data from the OECD Better Life Index, which measures well-being
 ## Running the Project
 To view the visualization, open `main.html` in any modern web browser. Ensure that all files are in the same directory to allow for proper loading of the views.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 - OECD for providing the Better Life Index data.
